@@ -1,11 +1,11 @@
 package pack5;
 
-public class Employee 
+public class Employee_1st_Class 
 {
 	private String empName;
 	private int empSal;
 	private String empDept;
-	public Employee (String empName,int empSal,String empDept)
+	public Employee_1st_Class (String empName,int empSal,String empDept)
 	{
 		this.empName=empName;
 		this.empSal=empSal;

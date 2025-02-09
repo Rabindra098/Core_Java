@@ -1,7 +1,5 @@
 package pack2;
 
-import javax.naming.spi.DirStateFactory.Result;
-
 public class ClassBH 
 {
 	public int meth1(int a,int b)

@@ -30,9 +30,7 @@ public class ArrayListTask3
 				i.remove();
 			}
 		}
-		System.out.println("\nAfter removing even Number : "+al);
-
-		
+		System.out.println("\nAfter removing even Number : "+al);	
 	}
 	public static void main(String[] args) 
 	{

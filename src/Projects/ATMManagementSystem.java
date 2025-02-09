@@ -1,4 +1,4 @@
-package pack3;
+package Projects;
 import java.util.Scanner;
 
 public class ATMManagementSystem 

@@ -66,14 +66,14 @@ public class Vector_Class
 	{
 		System.out.println("\nPassing user defined class object into the Vector\n");
 		Vector<Object> v = new Vector<Object>();
-		v.add(new Employee("Rabi", 50000, "Java"));
-		v.add(new Employee("NitiN", 60000, "Python"));
-		v.add(new Employee("Itamati", 50000, "Spring"));
+		v.add(new Employee_1st_Class("Rabi", 50000, "Java"));
+		v.add(new Employee_1st_Class("NitiN", 60000, "Python"));
+		v.add(new Employee_1st_Class("Itamati", 50000, "Spring"));
 		Enumeration<Object> e=v.elements();
 		while (e.hasMoreElements()) 
 		{
 			//System.out.println(e.nextElement());
-			Employee emp=(Employee)e.nextElement();
+			Employee_1st_Class emp=(Employee_1st_Class)e.nextElement();
 			String s=emp.getString();
 			System.out.println(s+"==>"+s.length()+" (Palindrome: "+isPalindrome(s)+")");
 		}
