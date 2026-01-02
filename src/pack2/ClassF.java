@@ -8,7 +8,7 @@ public class ClassF
 	static String empCompany="TCS";
 	public ClassF(String name,int sal,String dept) 
 	{
-		empName=name;
+		this.empName=name;
 		empSal=sal;
 		empDept=dept;
 	}

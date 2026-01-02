@@ -12,7 +12,7 @@ public class ClassD extends ClassC
 		cobj1.meth1();
 		//cobj.meth2();	//C.E
 		
-		ClassC cobj2 = new ClassC();	//2nd point
+		ClassC cobj2 = new ClassD();	//2nd point
 		cobj2.meth1();
 		//cobj2.meth2();	//C.E
 		

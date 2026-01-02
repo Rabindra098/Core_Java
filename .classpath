@@ -6,5 +6,15 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="J8"/>
+	<classpathentry kind="src" path="TechenicalPrograms"/>
+	<classpathentry kind="src" path="Recursion"/>
+	<classpathentry kind="src" path="Collection"/>
+	<classpathentry kind="src" path="2D_Array"/>
+	<classpathentry kind="src" path="Array"/>
+	<classpathentry kind="src" path="DSA"/>
+	<classpathentry kind="src" path="String"/>
+	<classpathentry kind="src" path="Pattern"/>
+	<classpathentry kind="src" path="SearchingandSorting"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

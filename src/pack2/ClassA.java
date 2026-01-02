@@ -15,12 +15,12 @@ public class ClassA
 	void meth1()
 	{
 		System.out.println("printing the defualt values of Datatypes\n");
-		System.out.println("int value i:"+i);
-		System.out.println("byte value b:"+b);
-		System.out.println("short value s:"+s);
-		System.out.println("long value l:"+l);
-		System.out.println("float value f:"+f);
-		System.out.println("double value d:"+d);
+		System.out.println("int value i:"+i);		//0
+		System.out.println("byte value b:"+b);		//0
+		System.out.println("short value s:"+s);		//0
+		System.out.println("long value l:"+l);		//0
+		System.out.println("float value f:"+f);		//0
+		System.out.println("double value d:"+d);	//0
 		System.out.println("char value c:"+c);		// /u0000=NPC
 		System.out.println("boolean value flag:"+flag); //false
 	}

@@ -2,6 +2,7 @@ package pack4;
 
 public interface InterfaceA 
 {
+
 	int i= 10;
 	void meth1();
 	default void meth2()

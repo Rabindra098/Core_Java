@@ -9,7 +9,7 @@ public class ClassB
 		ClassA aobj = new ClassA();
 		
 		System.out.print("Enter your name :");
-	//	aobj.empName=sc.next();
+//		aobj.empName=sc.next();
 		aobj.setEmpName(sc.next());
 		
 		System.out.print("\nEnter your Salary :");
